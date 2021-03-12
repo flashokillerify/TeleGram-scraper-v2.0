@@ -10,7 +10,7 @@ How its works?????
 
 
 
-- Install telethon using cmd  command: pip3 install telethon\
+- Install telethon using cmd  command: pip3 install -r requirements.txt
 
 -Get your Api and Hash id from www.my.telegram.org/auth
 
