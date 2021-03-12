@@ -20,8 +20,4 @@ Step 5. Run Export file and scrap the members
 
 Step 6. Finally Run the Add file to add the members in your Group
 
---------------------------------------------------------------------------------------
-
-contact for help
-https://telegram.me/arshmaanchannel
-https://www.arshmaan.com
+------------------------------------------------------------------------------
