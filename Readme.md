@@ -1,8 +1,6 @@
 Basic requirement to run this tool Download :
 
-Notepad++ : https://notepad-plus-plus.org/downloads/
-Python : https://www.python.org/downloads/
-Module Required : Open PowerShell in Administrator Mode and Type " pip install telethon " & " pip install requests " "Pip Install Licensing"
+ Mode and Type pip3 install -r requirements.txt
 
 ---------------------------------------------------------
 
