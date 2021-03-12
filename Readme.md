@@ -4,11 +4,11 @@ Basic requirement to run this tool Download :
 
 ---------------------------------------------------------
 
-Step 1.Open Phone.csv File in Notepad++ and then Enter your Telegram numbers 
+Step 1.Open Phone.csv File in nano Phone.csv and then Enter your Telegram numbers 
 
-Step 2.Now open api.csv file in Notepad++ and Enter the api id & hash for those numbers
+Step 2.Now open api.csv file in nano api.csv and Enter the api id & hash for those numbers
 
-Step 3. Open Config.ini file in Notepad++ and Enter the main_Phone Number (choose any one from phone.csv)
+Step 3. Open Config.ini file in nano Config.ini and Enter the main_Phone Number (choose any one from phone.csv)
         also enter the target Group username in 
 "from_channel" and put your group username in "to_channel"
 
