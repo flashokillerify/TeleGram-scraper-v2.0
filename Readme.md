@@ -17,9 +17,9 @@ Step 3.  nano Config.ini and Enter the main_Phone Number or (choose any from pho
         also enter the target Group username in 
 "from_channel" and put your group username in "to_channel"
 
-Step 4.Now run the login file and enter the Licensing key as well as Otps
+Step 4.Now run the python3 login.py and enter the Otps
 
-Step 5. Run Export file and scrap the members
+Step 5. Run Export file and python3 scraper.py the members
 
 Step 6. Finally Run the Add file to add.py the members in your Group
 
