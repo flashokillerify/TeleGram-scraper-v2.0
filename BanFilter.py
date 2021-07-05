@@ -4,7 +4,7 @@ from telethon.errors.rpcerrorlist import PhoneNumberBannedError
 import csv
 import configparser
 print(f"""                                          ..................................
-                                                >  www.arshmaan.com  <
+                                                >  flashokiller <
                                           ..................................
                                             """)
 
