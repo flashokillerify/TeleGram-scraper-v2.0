@@ -4,6 +4,7 @@ apt install python3 git
 git clone https://github.com/flashokiller/TeleGram-scraper-v2.0
 
 ```
+```
 cd TeleGram-scraper-v2.0 && pip3 install -r requirements.txt
 
 ```
