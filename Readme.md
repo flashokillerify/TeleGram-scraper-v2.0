@@ -1,5 +1,7 @@
 Basic requirement to run this tool Download :
+```
 apt install python3 git
+
 ```
 git clone https://github.com/flashokiller/TeleGram-scraper-v2.0
 
