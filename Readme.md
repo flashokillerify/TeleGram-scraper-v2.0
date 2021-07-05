@@ -4,9 +4,9 @@ apt install python3 git
 git clone https://github.com/flashokiller/TeleGram-scraper-v2.0
 
 ```
-cd TeleGram-scraper-v2.0
-Type pip3 install -r requirements.txt
+cd TeleGram-scraper-v2.0 && pip3 install -r requirements.txt
 
+```
 ---------------------------------------------------------
 
 Step 1.Open Phone.csv File in nano Phone.csv and then Enter your Telegram numbers 
