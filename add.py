@@ -8,7 +8,7 @@ from telethon.sync import TelegramClient
 from telethon import types, utils, errors
 from telethon.tl.functions import channels, contacts
 print(f"""                                          ..................................
-                                                >  www.arshmaan.com  <
+                                                >  flashokiller <
                                           ..................................
                                             """)
 
