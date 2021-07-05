@@ -24,6 +24,6 @@ Step 4.Now run the python3 login.py and enter the Otps
 
 Step 5. Run Export file and python3 export.py the members
 
-Step 6. Finally Run the Add file to add.py the members in your Group
+Step 6. Finally Run the Add file to python3 add.py the members in your Group
 
 ------------------------------------------------------------------------------
