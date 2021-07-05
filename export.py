@@ -7,7 +7,7 @@ from telethon import types, utils, errors
 from telethon.tl.functions import channels
 from add import read_csv, write_csv
 print(f"""                                          ..................................
-                                                >  www.arshmaan.com  <
+                                                >  flashokiller  <
                                           ..................................
                                             """)
 
